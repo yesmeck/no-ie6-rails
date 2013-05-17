@@ -22,8 +22,8 @@ If you are using assets:precompile rake for your production environment, you sho
 Note
 -
 
-If you configured your application not to include all helpers all the time, you also have to add NoIe6Rails helpers in your controller. Add following code to your ApplicationController (or specific page controller where ie7 notice should be activated):
+If you configured your application not to include all helpers all the time, you also have to add NoIe7Rails helpers in your controller. Add following code to your ApplicationController (or specific page controller where ie7 notice should be activated):
 
 
-    helper NoIe6Rails::Engine.helpers
+    helper NoIe7Rails::Engine.helpers
 

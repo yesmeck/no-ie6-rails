@@ -6,7 +6,7 @@ require "no-ie7-rails/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "no-ie7-rails"
-  s.version     = NoIe6Rails::VERSION
+  s.version     = NoIe7Rails::VERSION
   s.authors     = ["Ivan Tkalin"]
   s.email       = ["itkalin@gmail.com"]
   s.homepage    = "https://github.com/ivalkeen/no-ie7-rails"
